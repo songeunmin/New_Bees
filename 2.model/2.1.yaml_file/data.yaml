@@ -1,0 +1,13 @@
+path: ../dataset_v2
+train: ./images/train
+val: ./images/valid
+
+# Classes
+names:
+    0: face
+    1: eye_opened
+    2: eye_closed
+    3: mouth_closed
+    4: mouth_opened
+    5: cigar
+    6: phone

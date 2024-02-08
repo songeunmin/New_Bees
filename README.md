@@ -29,9 +29,9 @@
 ## Ⅰ. 주제선정
 * 선정과정</br>
   **1. 최근 교통사고 사망 사고 원인 별 조사**</br>
-       &nbsp;&nbsp;&nbsp; 1)졸음 및 주시 태만이 67.6%로 가장 높은 것으로 기록
+       &nbsp;&nbsp;&nbsp; 1)졸음 및 주시 태만이 67.6%로 가장 높은 것으로 기록</br>
   **2. AI 및 센서 기술**</br>
-       &nbsp;&nbsp;&nbsp; 2) 운전자의 부주의를 감지하여 주의를 주는 서비스들이 개발 중
+       &nbsp;&nbsp;&nbsp; 2) 운전자의 부주의를 감지하여 주의를 주는 서비스들이 개발 중</br>
   **3. 자료출처**</br>
        &nbsp;&nbsp;&nbsp; 1) 서울경제 https://www.sedaily.com/NewsView/29RZKXMF51.htm</br>
        &nbsp;&nbsp;&nbsp; 2) (주)필라스크리에이션 https://thepoc.co.kr/58/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7008773&t=board.htm

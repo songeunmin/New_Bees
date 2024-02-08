@@ -1,5 +1,6 @@
 # :bee: New_Bees
 deep running project
+- Driver inattentive object detection using YOLOv8
 
 ### :books: skill
 - Programming <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">

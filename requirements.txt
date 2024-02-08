@@ -1,6 +1,7 @@
 torch 
 streamlit
-opencv
+Streamlit-webrtc
+opencv-python-headless
 ultralytics
 datetime
 ConfigParser

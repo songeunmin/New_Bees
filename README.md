@@ -24,10 +24,10 @@
 &nbsp;&nbsp;&nbsp; 3) 🚖+👤:ma The taxi company owner who incruit new man who has no information for.   
 
 ## 목차(INDEX)
-&emsp;&ensp;Ⅰ.주제선정 
-&emsp;&ensp;Ⅱ. 📑 데이터 탐색 및 이미지 전처리  
-&emsp;&ensp;Ⅲ. 📑 모델링
-&emsp;&ensp;Ⅳ. 학습결과  
-&emsp;&ensp;Ⅴ. 웹 서비스 구현
-&emsp;&ensp;Ⅵ. 개선사항  
-&emsp;&ensp;Ⅶ. 📶자료출처  
+&emsp;&ensp;Ⅰ. 주제선정</br> 
+&emsp;&ensp;Ⅱ. 데이터 탐색 및 이미지 전처리</br>
+&emsp;&ensp;Ⅲ. 모델링</br>
+&emsp;&ensp;Ⅳ. 학습결과</br>  
+&emsp;&ensp;Ⅴ. 웹 서비스 구현</br>
+&emsp;&ensp;Ⅵ. 개선사항</br>  
+&emsp;&ensp;Ⅶ. 자료출처</br>  

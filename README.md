@@ -79,3 +79,6 @@
   **2. Ultralytics YOLOv8 문서**</br>
        &nbsp;&nbsp;&nbsp; 1) https://docs.ultralytics.com/ko.htm</br>
   **3. 이민혜,강선경,신성윤, 임순자, "안면인식 기술을 활용한 차량 시동 제어 시스템" 원광대학교, 군산대학교, 학국정보통신학회, p425-426, 2021**</br>
+
+
+# 🕴️ Thanks.

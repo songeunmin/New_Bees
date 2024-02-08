@@ -1,4 +1,10 @@
 torch 
 streamlit
-opencv-python
+opencv
 ultralytics
+datetime
+ConfigParser
+tempfile
+pprint
+sys
+Path

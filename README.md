@@ -24,4 +24,13 @@
 &nbsp;&nbsp;&nbsp; 3) 🚖+👤:ma The taxi company owner who incruit new man who has no information for.   
 
 ## 목차(INDEX)
-&emsp;&ensp;Ⅰ. 주제선정</br>&emsp;&ensp;Ⅱ. 데이터 탐색 및 이미지 전처리</br>&emsp;&ensp;Ⅲ. 모델링</br>&emsp;&ensp;Ⅳ. 학습결과</br>&emsp;&ensp;Ⅴ. 웹 서비스 구현</br>&emsp;&ensp;Ⅵ. 개선사항</br>&emsp;&ensp;Ⅶ. 자료출처</br>  
+&emsp;&ensp;Ⅰ. 주제선정</br>&emsp;&ensp;Ⅱ. 데이터 탐색 및 이미지 전처리</br>&emsp;&ensp;Ⅲ. 모델링</br>&emsp;&ensp;Ⅳ. 학습결과</br>&emsp;&ensp;Ⅴ. 웹 서비스 구현</br>&emsp;&ensp;Ⅵ. 개선사항</br>&emsp;&ensp;Ⅶ. 자료출처</br>
+
+## Ⅰ. 주제선정
+       1) 최근 교통사고 사망 사고 원인 별 조사
+          1. 졸음 및 주시 태만이 67.6%로 가장 높은 것으로 기록
+       2) AI 및 센서 기술
+          2. 운전자의 부주의를 감지하여 주의를 주는 서비스들이 개발 중
+       자료출처: 
+          - 서울경제 https://www.sedaily.com/NewsView/29RZKXMF51
+          - (주)필라스크리에이션 https://thepoc.co.kr/58/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=7008773&t=board

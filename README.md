@@ -48,3 +48,12 @@
        &nbsp;&nbsp;&nbsp; 2) Cigar, Phone을 제외한 이미지 랜덤으로 1/2 삭제하는 과정 2번을 거침</br>
        &nbsp;&nbsp;&nbsp; 3) YOLO 모델을 학습시키기 위해 Json으로 구성되어 있는 labels를 txt로 변경</br>
        &nbsp;&nbsp;&nbsp; 4) 서로 일치하는 Images & Label Copy
+
+## 2. 모델링
+  **1. 모델선정 : YOLOv8n** </br>
+       &nbsp;&nbsp;&nbsp; 1) 객체 검출 모델 중 가장 우수함</br>
+  **2. 모델링 과정**</br>
+       &nbsp;&nbsp;&nbsp; 1) Install ultralytic</br>
+       &nbsp;&nbsp;&nbsp; 2) Yaml파일 경로 설정 및 Class 설정</br>
+       &nbsp;&nbsp;&nbsp; 3) YOLOv8n을 학습 (epoch=20, batch=51, optimizer="AdamW")</br>
+       &nbsp;&nbsp;&nbsp; 4) 작업 경로 runs 파일 자동생성 후 결과 저장

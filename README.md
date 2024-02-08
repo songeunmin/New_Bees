@@ -1,5 +1,5 @@
 # :bee: New_Bees
-## **deep running project**
+## 📉 deep running project
 - Driver inattentive object detection using YOLOv8
 
 ## :books: skill

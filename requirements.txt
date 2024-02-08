@@ -1,7 +1,7 @@
 torch 
 streamlit
 Streamlit-webrtc
-opencv-python-headless
+opencv-python==4.9.0.80 
 ultralytics
 datetime
 ConfigParser

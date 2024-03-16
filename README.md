@@ -71,8 +71,8 @@
        &nbsp;&nbsp;&nbsp; 1) 더 많은 Cigar, Phone 이미지 라벨링 후 데이터셋에 추가해 모델 성능 향상 </br>
        &nbsp;&nbsp;&nbsp; 2) Object Cut-Mix 기법을 사용해 모델 성능 향상</br>
   **3. 다양한 시도**</br>
-       &nbsp;&nbsp;&nbsp; 3) 운전자 안면 인식 기술 추가 : 구현은 했으나, streamlit에 적용하지 못함</br>
-       &nbsp;&nbsp;&nbsp; 4) 운전자 부주의 검출 시 옵션 추가
+       &nbsp;&nbsp;&nbsp; 1) 운전자 안면 인식 기술 추가 : 구현은 했으나, streamlit에 적용하지 못함</br>
+       &nbsp;&nbsp;&nbsp; 2) 운전자 부주의 검출 시 옵션 추가
 
 ## Ⅵ. 참고자료
   **1. 조재익, 이성주, 정호기, 박강령, 김재희 "Vision-based method for detecting driver drowsiness and distraction in driver monitoring system" SPIE, 2011** </br>
